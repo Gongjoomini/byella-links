@@ -335,7 +335,8 @@ export default function App() {
             ByElla
           </h1>
           <p className="text-[#3A3A3A] text-sm md:text-[15px] font-medium leading-relaxed max-w-[280px]">
-            Just a Korean girl 💅 K-beauty • Food • Life 💝 Daily Updates ✨
+            Wanna know what I use? 👀💅
+Find everything from my videos here ✨
           </p>
           <div className="mt-5 mb-2 flex items-center justify-center gap-6">
             <a href="#" className="text-[#2B2B2B] hover:text-black hover:scale-110 transition-all duration-300">
