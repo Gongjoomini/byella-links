@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { Play, X, Instagram, Youtube, Sparkles, ExternalLink } from 'lucide-react';
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
-import profileImage from 'figma:asset/a157fd8fe358c814c9538463690dab3a08669de8.png';
+import profileImage from '../assets/a157fd8fe358c814c9538463690dab3a08669de8.png';
 
 // --- UTILS ---
 function cn(...inputs: ClassValue[]) {
